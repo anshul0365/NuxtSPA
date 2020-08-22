@@ -2,9 +2,7 @@
 
 ## Netlify Website
 
-```bash
 [NuxtSPA](https://unruffled-leavitt-8fcbec.netlify.app/)
-```
 
 ## Build Setup
 
