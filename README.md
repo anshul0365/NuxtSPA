@@ -19,5 +19,10 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
-#Deployment [Netlify]
+# Deployment [Netlify]
 
+```bash
+1. Link your Git Repository.
+2. On Build Command option write - npm run generate
+3. On directory option write - dist
+```
