@@ -1,8 +1,8 @@
 # NuxtSPA
 
-## Netlify Website
+## Project Link
 
-[NuxtSPA](https://unruffled-leavitt-8fcbec.netlify.app/)
+(https://unruffled-leavitt-8fcbec.netlify.app/)
 
 ## Build Setup
 
